@@ -64,6 +64,7 @@ So we should reinstall driver self:
 2.  **Don't upgrade your system version. Don't upgrade to 10.8.5 or 10.9. After upgrade,
 hackintosh will crash.**
 3.  **Install printer is easy**
+4.  **Don't use [cleanmymac](http://macpaw.com/cleanmymac) or software similar, sometimes it will delete some system related files make hackintosh crash**
 
 ###Tips:
 
