@@ -1,5 +1,12 @@
 ##Hackintosh Based On Mesheven PC
 
+###The way to get here
+
+We spend much of the part-time start installing hackintosh from zero, we met many
+problems and bugs, but all solved through searching and learning from Internet.
+
+I am really happy to share it with you!
+
 ###About
 
 This is project about how to install [hackintosh](http://en.wikipedia.org/wiki/Hackintosh)(黑苹果) painless on mesheven pc.
@@ -44,20 +51,21 @@ But now, we find the way to solve:
 
 Can't control the system voice & can't find the audio device. But USB headphone works.
 
-So we should install driver self:
+So we should reinstall driver self:
 
     cd ./10.8/Audio/
     mv AppleHDA.kext HDAEnabler1.kext ~/Desktop/
-    Doublclick KextBeast to install (It will move the two files to /System/Library/Extensions/ folder)
+    Doublclick [KextBeast](http://tonymacx86.blogspot.com/2010/08/kextbeast-simple-kext-installer.html) to install (It will move the two files to /System/Library/Extensions/ folder)
     reboot
 
 ###Notes:
 
-1.  Don't shutdown hackintosh force
-2.  Don't upgrade your system version. Don't upgrade to 10.8.5 or 10.9. After upgrade,
-hackintosh will crash.
+1.  **Don't shutdown hackintosh force**
+2.  **Don't upgrade your system version. Don't upgrade to 10.8.5 or 10.9. After upgrade,
+hackintosh will crash.**
+3.  **Install printer is easy**
 
 ###Tips:
 
 Above are based on Mesheven PC (Gigabyte H77N Wifi motherboard), please notice. Other
-PC(motherboard) I can't guarantee this guide works.
+PC or motherboard I can't guarantee this guide works.
