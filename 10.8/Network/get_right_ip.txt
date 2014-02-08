@@ -1,0 +1,3 @@
+sudo ifconfig en0 ether 90:2b:34:de:19:e4
+sudo ifconfig en0 down
+sudo ifconfig en0 up
