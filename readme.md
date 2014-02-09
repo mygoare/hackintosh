@@ -3,9 +3,10 @@
 ###The way to get here
 
 We spend much of the part-time start installing hackintosh from zero, we met many
-problems and bugs, but all solved through searching and learning from Internet.
+problems and bugs, restarted pc many many times, but all solved through searching
+and learning from Internet.
 
-I am really happy to share it with you!
+Really happy to share it with you!
 
 ###About
 
