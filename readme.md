@@ -72,6 +72,11 @@ So we should reinstall driver self:
 
 		<key>Kernel Flags</key>
 		<string>dart=0</string>
+		
+Bug:
+
+1. 10.9.3无法sleep（sleep后进入系统无需输入密码）
+2. sleep唤醒后声卡没声音（10.8的声卡驱动对10.9.3无效，会导致system preferences crash）
 
 
 ###Notes:
