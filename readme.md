@@ -75,7 +75,7 @@ So we should reinstall driver self:
 		
 Bug:
 
-1. 10.9.3无法sleep（sleep后进入系统无需输入密码）
+1. <del>10.9.3无法sleep（sleep后进入系统无需输入密码）</del>*已解决，使用MultBeast 6.1.0 安装声卡驱动即可*
 2. sleep唤醒后声卡没声音（10.8的声卡驱动对10.9.3无效，会导致system preferences crash）
 
 
