@@ -63,6 +63,11 @@ So we should reinstall driver self:
     Doublclick [KextBeast](http://tonymacx86.blogspot.com/2010/08/kextbeast-simple-kext-installer.html) to install (It will move the two files to /System/Library/Extensions/ folder)
     reboot
     
+
+####  Install Mavricks (10.9.2)
+
+步骤类似于10.9.3 ， 安装完成后无 10.9.3 的 ‘sleep后进入系统无需输入密码’ bug
+    
 #### Install Mavericks (10.9.3)
 
 1. 制作U盘启动盘（10.9.3的系统一定要在App Store里下载，其他第三方网盘或迅雷下载的在用Unibeast制作U盘启动盘时都会报错：系统不完整）
@@ -75,8 +80,8 @@ So we should reinstall driver self:
 		
 Bug:
 
-1. <del>10.9.3无法sleep（sleep后进入系统无需输入密码）</del>*已解决，使用MultBeast 6.1.0 安装声卡驱动即可*
-2. sleep唤醒后声卡没声音（10.8的声卡驱动对10.9.3无效，会导致system preferences crash）
+1. 10.9.3无法sleep（sleep后进入系统无需输入密码）
+2. <del>sleep唤醒后声卡没声音（10.8的声卡驱动对10.9.3无效，会导致system preferences crash）</del>*已解决，使用MultBeast 6.1.0 安装声卡驱动即可*
 
 
 ###Notes:
