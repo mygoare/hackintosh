@@ -84,6 +84,11 @@ Bug:
 2. <del>sleep唤醒后声卡没声音（10.8的声卡驱动对10.9.3无效，会导致system preferences crash）</del>*已解决，使用MultBeast 6.1.0 安装声卡驱动即可*
 
 
+#### Install Mavericks (10.9.4)
+
+同 10.9.3，下载app store的升级包，问题不大
+
+
 ###Notes:
 
 2.  **Don't Install NEED RESTART UPDATES from App Store**
