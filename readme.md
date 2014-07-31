@@ -50,7 +50,9 @@ Several times later, It gone ok.
 
 <del>`down`, `up` is restarting the network card.
 
-现在，一直插了两根网线，一直未出现断网
+<del>现在，一直插了两根网线，一直未出现断网
+
+现在发现，可能是astrill软件的问题。现在使用shadowsocks翻墙，一直未出现断网情况
 
 * **Audio device can't found** (10.9.3没有此问题)
 
@@ -87,6 +89,11 @@ Bug:
 #### Install Mavericks (10.9.4)
 
 同 10.9.3，下载app store的升级包，问题不大
+
+### Update
+声卡 用multBeast 6.1 安装，选 892； 
+
+网卡选Realtel offical 最后一个。彻底解决一直以来都存在的网卡bug :-)
 
 
 ###Notes:
