@@ -24,7 +24,7 @@ So if your pc also use the motherboard, the guide also can help.
 
 Basically we can follow the tutorial from [tonymacx86.com](http://www.tonymacx86.com/61-unibeast-install-os-x-mountain-lion-any-supported-intel-based-pc.html)
 to install the mac os X 10.8 (mountain lion)
-![MultiBeast](./10.8/Snip20140208_2.png)
+![MultiBeast](./Snip20140208_2.png)
 
 ###Bugs fix
 
