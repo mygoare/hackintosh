@@ -1,5 +1,7 @@
 官方在此：http://www.asrock.com/nettop/intel/Deskmini%20110%20Series/index.asp#About
 
+![](http://i.imgur.com/bu8d2Xs.jpg)
+
 这迷你主机除了外置电源大跌眼镜外，还是很不错的，tonymacx86上有个专门的[帖子](https://www.tonymacx86.com/threads/asrock-deskmini-110-issues.200939/)讨论。国内能买到的都是带com版本，所以不适用不带com版本的beta bios，我拿到的bios是1.30，到手后先刷到了最新7.00
 
 我购入的cpu是i5 7500，第7代cpu，需要额外的折腾，那几天折腾得差点放弃；推荐买6代的cpu，支持更好些，至少不用fakeCpuId，而且是hd530，支持好, 详见： https://www.tonymacx86.com/threads/new-testing-intel-7th-generation-kaby-lake-cpus-200-series-motherboards-in-macos.211743/
