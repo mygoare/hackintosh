@@ -1,3 +1,7 @@
+后续的更新请移步 [Issue](https://github.com/mygoare/Hackintosh/issues) 查看，谢谢！
+
+---
+
 如果从App Store更新重启系统后不能工作，请第一时间去tonymacx86看相关系统更新的说明!!!切记！切记！切记！
 
 最近折腾了个[Deskmini 110](http://www.asrock.com/nettop/intel/Deskmini%20110%20Series/index.asp#About)，详见 [Deskmini 110/com](deskmini_110_com.md)
