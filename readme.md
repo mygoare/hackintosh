@@ -1,6 +1,3 @@
-后续的更新请移步 [Issue](https://github.com/mygoare/Hackintosh/issues) 查看，谢谢！
-
----
 
 如果从App Store更新重启系统后不能工作，请第一时间去tonymacx86看相关系统更新的说明!!!切记！切记！切记！
 
@@ -13,6 +10,8 @@
 * [10.10](10.10)
 * [10.11](10.11)
 * [10.12](10.12)
+* [10.14](https://github.com/mygoare/Hackintosh/issues/3)
+* [10.15](https://github.com/mygoare/Hackintosh/issues/4)
 
 本项目源自于在 创享桥 Mesheven 工作期间自身工作需要，后来演变到现在，自己业余生活工作都在使用黑苹果，算是一种很廉价的使用上苹果系统的方式。
 
