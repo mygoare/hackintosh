@@ -1,8 +1,8 @@
 公司主板  Gigabyte H77N Wifi
 
-##Hackintosh Based On Mesheven PC
+## Hackintosh Based On Mesheven PC
 
-###The way to get here
+### The way to get here
 
 We spend much of the part-time start installing hackintosh from zero, we met many
 problems and bugs, restarted pc many many times, but all solved through searching
@@ -10,7 +10,7 @@ and learning from Internet.
 
 Really happy to share it with you!
 
-###About
+### About
 
 This is project about how to install [hackintosh](http://en.wikipedia.org/wiki/Hackintosh)(黑苹果) painless on mesheven pc.
 
@@ -18,7 +18,7 @@ The motherboard is [Gigabyte H77N Wifi](http://www.gigabyte.com.au/products/prod
 So if your pc also use the motherboard, the guide also can help.
 
 
-###How to install
+### How to install
 
 #### Install Mountain Lion (10.8)
 
