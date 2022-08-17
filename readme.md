@@ -7,6 +7,7 @@
 * [macOS Sierra - 10.12](10.12)
 * [macOS Mojave - 10.14](https://github.com/mygoare/Hackintosh/issues/3)
 * [macOS Catalina - 10.15](https://github.com/mygoare/Hackintosh/issues/4)
+* [macOS Big Sur - 11.6.1](11.6.1)
 
 如果从App Store 安装更新重启系统后不能工作，请第一时间去tonymacx86看相关系统更新的说明!!!切记！切记！切记！
 
